@@ -1,2 +1,3 @@
-Informacion
+# Informacion:
+
 Esta carpeta contendrá los archivos creados con el aplicativo, en este caso son las tablas de multiplicar creadas...
